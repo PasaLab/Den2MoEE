@@ -1,0 +1,23 @@
+# torch
+# transformers==4.52.1
+# accelerate
+# tqdm
+# numpy
+# mteb==1.38.9
+# sentence-transformers
+# vllm
+# requests
+# ray
+
+
+
+
+
+torch
+transformers==4.52.1
+accelerate
+tqdm
+numpy
+sentence-transformers
+mteb==1.38.9
+sentencepiece

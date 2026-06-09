@@ -1,0 +1,6 @@
+# torch==2.6.0
+# transformers==4.51.3
+mteb==1.38.9
+# vllm==0.8.5.post1
+# datasets==2.21.0
+# flash-attn==2.7.4.post1
